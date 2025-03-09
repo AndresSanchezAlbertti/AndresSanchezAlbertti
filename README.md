@@ -41,6 +41,8 @@ Nginx y Gunicorn 🌐
 🔹 Mi Portafolio Web - Desarrollado con Html CSS | Bootstrap y Javascript
 
 🔹 Calculadora de Salarios Docente - CABA: Aplicación web desarrollada con HTML, CSS y JavaScript, que permite a los docentes calcular su salario según su cargo y nivel educativo. Se integra con una base de datos mediante consultas HTTP, obteniendo valores actualizados para realizar los cálculos con precisión.
+<a href="https://sedeba.org.ar/calculadora" target="_blank">Demo en vivo</a>
+
 
 🔹 API de Gestión de Usuarios y CRM de Ventas:
 Desarrollada con Django Rest Framework y autenticación JWT, esta API se integra con la base de datos de un servidor Moodle mediante su API, permitiendo la automatización de:
